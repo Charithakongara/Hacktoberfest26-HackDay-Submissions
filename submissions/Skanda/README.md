@@ -13,6 +13,7 @@ Solution:
 Opportunity Atlas is a unified platform that brings hackathon discovery, course recommendations, and AI-powered learning together. It allows students to explore hackathons based on dates, location, cost, difficulty, and effort required; discover suitable courses and personalized learning paths; and use an AI chatbot to analyze their hackathon projects, identify potential weaknesses, and receive actionable improvement plans. By connecting learning with real-world opportunities, the platform helps students continuously develop their skills and prepare for future challenges.
 
 https://github.com/Charithakongara/Oppurtunity-Atlas.git 
+
 https://github.com/Charithakongara/Hacktoberfest26-HackDay-Submissions.git 
 
 # Limitations
