@@ -2,7 +2,7 @@
 
 # Hack Day | Hacktoberfest 2026
 
-Welcome to the official submission repository for **Hack Day**, a one-day hackathon hosted by [MU Enigma](https://mu-enigma.org/).
+Welcome to the official submission repository for **Hack Day**, a one-day hackathon hosted by [Enigma](https://mu-enigma.org/).
 
 Pick a personal and creative problem from everyday life, then build a solution to it. You may participate individually or as a team, and you may use AI tools, open-source AI, open-weight models, and AI agents.
 
@@ -65,8 +65,4 @@ Pick a personal and creative problem from everyday life, then build a solution t
 - Do not commit passwords, API keys, `.env` files, personal data, or generated dependency folders such as `node_modules`.
 - Be respectful of other teams' work and use only content you have permission to share.
 
-Need help? Ask an MU Enigma organizer at the event.
-
-## License
-
-This repository is available under the [MIT License](LICENSE). A submission may include its own license inside its team folder when required.
+Need help? Ask an Enigma organizer at the event.
