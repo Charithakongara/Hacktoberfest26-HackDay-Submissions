@@ -1,26 +1,8 @@
-# Private event source material
-*.msg
-
-# Secrets
-.env
-.env.*
-!.env.example
-
-# Dependencies and virtual environments
 node_modules/
-vendor/
-.venv/
-venv/
-__pycache__/
-
-# Generated output
-dist/
 build/
+dist/
 coverage/
-*.log
-
-# Editor and operating-system files
-.idea/
-.vscode/
 .DS_Store
-Thumbs.db
+*.log
+.env*
+!.env.example
